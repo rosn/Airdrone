@@ -1,2 +1,2 @@
 # Airdrone
-This software is based on an all I2C platform and a NodeMCU controller
+This flight control system tend to achieve a specific design to easyly add new functionalities.
